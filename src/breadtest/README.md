@@ -1,1 +1,1 @@
-this ia a readme file in the source package
+this is a readme file in the source package
